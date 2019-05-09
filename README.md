@@ -10,7 +10,7 @@
 ## Quora Insincere Questions Classification
 
 - [Website](https://www.kaggle.com/c/quora-insincere-questions-classification/data)
-- Organization: [Quora]()
+- Organization: [Quora](https://www.kaggle.com/quora/competitions)
 - Date: Feb 2019
 
 ## Toxic Comment Classification Challenge
@@ -22,6 +22,7 @@
 ## Quora Question Pairs
 
 - [Website](https://www.kaggle.com/c/quora-question-pairs)
+- Organization: [Quora](https://www.kaggle.com/quora/competitions)
 - Date: Jun 2017
 
 https://www.kaggle.com/c/word2vec-nlp-tutorial

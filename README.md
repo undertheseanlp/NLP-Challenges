@@ -3,11 +3,13 @@
 ## Quora Insincere Questions Classification
 
 - [Website](https://www.kaggle.com/c/quora-insincere-questions-classification/data)
+- Organization: [Quora]()
 - Date: Feb 2019
 
 ## Toxic Comment Classification Challenge
 
 - [Website](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+- Organziation: [Jigsaw/Conversation AI](https://www.kaggle.com/jigsaw-team/competitions)
 - Date: Mar 2018
 
 ## Quora Question Pairs

@@ -7,6 +7,12 @@
 - Date: June 2019
 
 
+## Gendered Pronoun Resolution
+
+- [Website](https://www.kaggle.com/c/gendered-pronoun-resolution)
+- Organization: [Google AI](https://www.kaggle.com/googleai/competitions)
+- Date: Apr 2019
+
 ## Quora Insincere Questions Classification
 
 - [Website](https://www.kaggle.com/c/quora-insincere-questions-classification/data)

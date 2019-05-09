@@ -1,5 +1,12 @@
 # NLP Challenges
 
+## Detect toxicity across a diverse range of conversations
+
+- [Website](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+- Organziation: [Jigsaw/Conversation AI](https://www.kaggle.com/jigsaw-team/competitions)
+- Date: June 2019
+
+
 ## Quora Insincere Questions Classification
 
 - [Website](https://www.kaggle.com/c/quora-insincere-questions-classification/data)
